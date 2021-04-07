@@ -7,8 +7,6 @@
 ### Badges
 ![codewars](https://www.codewars.com/users/stiaannel/badges/small)
 
-![](https://komarev.com/ghpvc/?username=stiaannel&color=1e1e1e)
-
 #### My languages/Skills
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&style=for-the-badge&logoColor=ffffff)
@@ -18,6 +16,15 @@
 ![Css](https://img.shields.io/badge/Css-1572B6?logo=css3&style=for-the-badge&logoColor=ffffff)
 ![Js](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&style=for-the-badge&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge&logoColor=ffffff)
+
+
+###
+Stats
+![](https://komarev.com/ghpvc/?username=stiaannel&color=1e1e1e)
+
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=stiaannel&count_private=true&show_icons=true&bg_color=45,1e1e1e,000000&hide_border=true&text_color=ffffff&border_radius=25&include_all_commits=true&custom_title=My%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stiaannel&layout=compact&langs_count=10&bg_color=45,1e1e1e,000000&hide_border=true&text_color=ffffff&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links Etc
 Check out my react-native app: [react-native robofriends](https://expo.io/@stiaann/react-native-robofriends)
