@@ -18,8 +18,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge&logoColor=ffffff)
 
 
-###
-Stats
+### Stats
 ![](https://komarev.com/ghpvc/?username=stiaannel&color=1e1e1e)
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=stiaannel&count_private=true&show_icons=true&bg_color=45,1e1e1e,000000&hide_border=true&text_color=ffffff&border_radius=25&include_all_commits=true&custom_title=My%20Stats)
