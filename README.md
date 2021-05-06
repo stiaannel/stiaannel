@@ -7,7 +7,7 @@
 ### Badges
 ![codewars](https://www.codewars.com/users/stiaannel/badges/small)
 
-#### My languages/Skills
+#### Languages/Frameworks/Skills I Use
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&style=for-the-badge&logoColor=ffffff)
 ![Rails](https://img.shields.io/badge/Ruby%20On%20Rails-cc0000?logo=ruby-on-rails&style=for-the-badge&logoColor=ffffff)
