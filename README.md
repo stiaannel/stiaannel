@@ -7,18 +7,12 @@
 
 ## Skills Etc
 
-### Languages I Use:
+### Languages, Frameworks and other Technologies I am familiar With/Use:
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&style=for-the-badge&logoColor=ffffff)
 ![Js](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&style=for-the-badge&logoColor=1e1e1e)
-
-### Frameworks I Use:
-
 ![Rails](https://img.shields.io/badge/Ruby%20On%20Rails-cc0000?logo=ruby-on-rails&style=for-the-badge&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&style=for-the-badge&logoColor=1e1e1e)
-
-### Other Stuff I Know/Use:
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge&logoColor=ffffff)
 ![Html](https://img.shields.io/badge/Html-E34F26?logo=html5&style=for-the-badge&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&style=for-the-badge&logoColor=ffffff)
