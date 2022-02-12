@@ -1,8 +1,4 @@
-# Greetings 🖤👋🏻😁
-
-( ﾉ ﾟｰﾟ)ﾉ＼(ﾟｰﾟ＼)
-
-![banner_image](https://imgur.com/sOo6avk.png)
+# Hello There! 🖤👋🏻😁
 
 ## Badges
 
@@ -32,7 +28,6 @@
 Check out my react-native app: [react-native robofriends](https://expo.io/@stiaann/react-native-robofriends)
 
 ## Stats
-
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=stiaannel&count_private=true&show_icons=true&bg_color=45,1e1e1e,000000&hide_border=true&text_color=ffffff&border_radius=25&include_all_commits=true&custom_title=My%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stiaannel&layout=compact&langs_count=10&bg_color=45,1e1e1e,000000&hide_border=true&text_color=ffffff&border_radius=25)
