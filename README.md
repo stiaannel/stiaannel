@@ -3,7 +3,6 @@
 ## Badges
 
 ![codewars](https://www.codewars.com/users/stiaannel/badges/small)
-![](https://komarev.com/ghpvc/?username=stiaannel&color=1e1e1e)
 
 ## Skills Etc
 <!-- 0553B1 -->
