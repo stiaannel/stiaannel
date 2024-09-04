@@ -18,14 +18,6 @@
 
 
 
-
-
-
-
-
-## Extra Links
-Check out my react-native app: [react-native robofriends](https://expo.io/@stiaann/react-native-robofriends)
-
 <!-- 
 ## Stats
 
